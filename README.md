@@ -1,4 +1,4 @@
-# Covid-19 Checkpoint
+# Petrol Prediction
 
 ***64010090 - Jakkapat Paijit***
 
