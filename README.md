@@ -8,6 +8,7 @@
 
 Elementary Differential Equations and Linear Algebra (01076032) Computer Engineering, KMITL<br><br>
 
+![Untitled design](https://user-images.githubusercontent.com/86193685/205384940-093ee22e-aa60-4780-ade5-abb46192020e.png)
 
 ## Introduction
 This is a crude oil prediction using linear regression theory using jupyter notebook and sklearn-kit module. 
