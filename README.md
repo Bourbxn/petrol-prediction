@@ -1,5 +1,6 @@
 ### [bourbxn-linear-project-app-z56a17.streamlit.app](https://bourbxn-linear-project-app-z56a17.streamlit.app/)
 # Petrol Prediction
+![Untitled design](https://user-images.githubusercontent.com/86193685/205384940-093ee22e-aa60-4780-ade5-abb46192020e.png)
 
 ***64010090 - Jakkapat Paijit***<br>
 ***64010168 - Chonlapluet Khongchuai***<br>
@@ -7,8 +8,6 @@
 ***64010251 - Nuttapat Ngammuk***
 
 Elementary Differential Equations and Linear Algebra (01076032) Computer Engineering, KMITL<br><br>
-
-![Untitled design](https://user-images.githubusercontent.com/86193685/205384940-093ee22e-aa60-4780-ade5-abb46192020e.png)
 
 ## Introduction
 This is a crude oil prediction using linear regression theory using jupyter notebook and sklearn-kit module. 
